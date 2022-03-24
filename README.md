@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ajwad090
 - 👀 I’m interested in Cybersecurity, Computer Networks & Coding/Programming
 - 🌱 I’m currently learning Comptia A+, Comptia Security+, & Web Development & Programming Tools
-- 📫 How to reach me -> 🐦 Twitter @Ajwad090
+- 📫 How to reach me -> 🐦 Twitter @Ajwad090 👾 HackerRank @Ajwad090
 
 
 <!---
